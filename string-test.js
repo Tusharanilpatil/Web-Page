@@ -1,4 +1,4 @@
-var str = new String("Hello World !!!");
+var str = new String("Welcome To Pune  !!!");
 
 console.log(str.charCodeAt(0));
 console.log(str.codePointAt(1));
