@@ -8,6 +8,6 @@ console.log(d1.getFullYear());
 
 console.log(d1.getSeconds())
 
-let dt = "2024-01-01";
+let dt = "2024-10-10";
 
 console.log(new Date(dt));
